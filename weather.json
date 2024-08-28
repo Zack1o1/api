@@ -1,0 +1,12 @@
+{
+ {
+   id: 0,
+  temp: 100,
+  location: "Jhapa"
+},
+{
+   id: 1,
+  temp: 100,
+  location: "Kathmandu"
+}
+}
